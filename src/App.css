@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+.id-card {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  margin-left: 1%;
+  border: 2px solid #0d0e0f;
+  height: 120px;
+  width: 900px;
+}
+
+.greeting {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  margin-left: 1%;
+  border: 2px solid #0d0e0f;
+  height: 50px;
+  width: 900px;
+  align-items: center;
+}
+
+.random {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  margin-left: 1%;
+  border: 2px solid #0d0e0f;
+  height: 50px;
+  width: 900px;
+  align-items: center;
+}
+.randText {
+  margin-left: 1%;
+}
+
+.box {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  margin-left: 1%;
+  border: 2px solid #0d0e0f;
+  align-items: center;
+  height: 50px;
+  width: 900px;
+}
+
